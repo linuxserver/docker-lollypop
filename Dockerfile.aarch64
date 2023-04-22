@@ -16,6 +16,9 @@ RUN \
     adwaita-icon-theme \
     lollypop \
     youtube-dl && \
+  ln -s \
+    /usr/lib/libpython3.10.so.1.0 \
+    /usr/lib/libpython3.10.so && \
   echo "**** OpenBox tweaks ****" && \
   sed -i 's|</applications>|  <application title="Lollypop" type="normal">\n    <maximized>yes</maximized>\n  </application>\n</applications>|' /etc/xdg/openbox/rc.xml && \
   echo "**** cleanup ****" && \
