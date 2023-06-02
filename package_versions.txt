@@ -59,7 +59,7 @@ cookie-signature                                                              1.
 coreutils                                                                     9.1-r0                                               apk        
 cors                                                                          2.8.5                                                npm        
 cryptography                                                                  38.0.3                                               python     
-cups-libs                                                                     2.4.2-r1                                             apk        
+cups-libs                                                                     2.4.2-r2                                             apk        
 curio                                                                         1.5                                                  python     
 curl                                                                          8.0.1-r0                                             apk        
 dbus                                                                          1.14.4-r0                                            apk        
