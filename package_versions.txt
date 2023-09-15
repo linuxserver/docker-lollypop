@@ -364,7 +364,7 @@ kclient                                                                       0.
 lame                                                                          3.100-r2                                             apk        
 lcms2                                                                         2.14-r0                                              apk        
 libacl                                                                        2.3.1-r1                                             apk        
-libarchive                                                                    3.6.1-r2                                             apk        
+libarchive                                                                    3.7.2-r0                                             apk        
 libass                                                                        0.16.0-r1                                            apk        
 libasyncns                                                                    0.8-r1                                               apk        
 libatk-1.0                                                                    2.46.0-r0                                            apk        
