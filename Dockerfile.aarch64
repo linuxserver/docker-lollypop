@@ -19,6 +19,7 @@ RUN \
   apk add --no-cache \
     adwaita-icon-theme \
     lollypop \
+    py3-beautifulsoup4 \
     youtube-dl && \
   ln -s \
     /usr/lib/libpython3.10.so.1.0 \
