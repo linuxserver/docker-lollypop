@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.2                                        npm                          
 @types/cookie                                                                 0.4.1                                        npm                          
 @types/cors                                                                   2.8.17                                       npm                          
-@types/node                                                                   20.12.7                                      npm                          
+@types/node                                                                   20.12.8                                      npm                          
 PyGObject                                                                     3.46.0                                       python                       
 accepts                                                                       1.3.8                                        npm                          
 ada-libs                                                                      2.7.4-r0                                     apk                          
@@ -564,7 +564,7 @@ is-terminal                                                                   0.
 itertools                                                                     0.10.5                                       rust-crate                   
 ivf                                                                           0.1.2                                        rust-crate                   
 jack                                                                          1.9.22-r4                                    apk                          
-jake                                                                          10.8.7                                       npm                          
+jake                                                                          10.9.1                                       npm                          
 jq                                                                            1.7.1-r0                                     apk                          
 k8s.io/api                                                                    v0.26.2                                      go-module                    
 k8s.io/api                                                                    v0.26.7                                      go-module   (+1 duplicate)   
@@ -587,7 +587,7 @@ lazy_static                                                                   1.
 lcms2                                                                         2.15-r4                                      apk                          
 libSvtAv1Enc                                                                  1.7.0-r0                                     apk                          
 libacl                                                                        2.3.1-r4                                     apk                          
-libarchive                                                                    3.7.2-r1                                     apk                          
+libarchive                                                                    3.7.4-r0                                     apk                          
 libass                                                                        0.17.1-r1                                    apk                          
 libasyncns                                                                    0.8-r2                                       apk                          
 libatk-1.0                                                                    2.50.1-r0                                    apk                          
