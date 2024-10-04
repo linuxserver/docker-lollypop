@@ -15,7 +15,7 @@ jobs:
           SKIP_EXTERNAL_TRIGGER: ${{ vars.SKIP_EXTERNAL_TRIGGER }}
         run: |
           printf "# External trigger for docker-lollypop\n\n" >> $GITHUB_STEP_SUMMARY
-          if grep -wq "^lollypop_master$" <<< "${SKIP_EXTERNAL_TRIGGER}"; then
+          if grep -q "^lollypop_master" <<< "${SKIP_EXTERNAL_TRIGGER}"; then
             echo "> [!WARNING]" >> $GITHUB_STEP_SUMMARY
             echo "> Github organizational variable \`SKIP_EXTERNAL_TRIGGER\` contains \`lollypop_master\`; skipping trigger." >> $GITHUB_STEP_SUMMARY
             exit 0
