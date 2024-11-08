@@ -5,7 +5,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  UNKNOWN                                             npm        (+1 duplicate)   
 @types/cookie                                                                 0.4.1                                               npm                         
 @types/cors                                                                   2.8.17                                              npm                         
-@types/node                                                                   22.8.1                                              npm                         
+@types/node                                                                   22.8.6                                              npm                         
 accepts                                                                       1.3.8                                               npm                         
 ada-libs                                                                      2.7.8-r0                                            apk                         
 adwaita-icon-theme                                                            46.0-r0                                             apk                         
@@ -620,7 +620,7 @@ libpsl                                                                        0.
 libpulse                                                                      17.0-r0                                             apk                         
 libraw1394                                                                    2.1.2-r5                                            apk                         
 librist                                                                       0.2.10-r1                                           apk                         
-librsvg                                                                       2.58.0-r0                                           apk                         
+librsvg                                                                       2.58.5-r0                                           apk                         
 libseccomp                                                                    2.5.5-r1                                            apk                         
 libsecret                                                                     0.21.4-r0                                           apk                         
 libsecret-lang                                                                0.21.4-r0                                           apk                         
@@ -709,7 +709,7 @@ mime-types                                                                    2.
 minimatch                                                                     3.1.2                                               npm                         
 minimatch                                                                     5.1.6                                               npm                         
 mpdecimal                                                                     4.0.0-r0                                            apk                         
-mpg123-libs                                                                   1.32.6-r0                                           apk                         
+mpg123-libs                                                                   1.32.8-r0                                           apk                         
 ms                                                                            2.0.0                                               npm                         
 ms                                                                            2.1.3                                               npm        (+4 duplicates)  
 musl                                                                          1.2.5-r0                                            apk                         
@@ -726,7 +726,7 @@ nghttp2-libs                                                                  1.
 nginx                                                                         1.26.2-r0                                           apk                         
 nodejs                                                                        20.15.1-r0                                          apk                         
 nspr                                                                          4.35-r4                                             apk                         
-nss                                                                           3.104-r0                                            apk                         
+nss                                                                           3.105-r0                                            apk                         
 numactl                                                                       2.0.18-r0                                           apk                         
 object-assign                                                                 4.1.1                                               npm                         
 object-inspect                                                                1.13.2                                              npm                         
@@ -938,9 +938,9 @@ xkeyboard-config-lang                                                         2.
 xterm                                                                         391-r0                                              apk                         
 xvidcore                                                                      1.3.7-r2                                            apk                         
 xz-libs                                                                       5.6.2-r0                                            apk                         
-yt-dlp                                                                        2024.10.22                                          python                      
-yt-dlp-core                                                                   2024.10.22-r0                                       apk                         
-yt-dlp-core-pyc                                                               2024.10.22-r0                                       apk                         
+yt-dlp                                                                        2024.11.4                                           python                      
+yt-dlp-core                                                                   2024.11.04-r0                                       apk                         
+yt-dlp-core-pyc                                                               2024.11.04-r0                                       apk                         
 zimg                                                                          3.0.5-r2                                            apk                         
 zix-libs                                                                      0.4.2-r0                                            apk                         
 zlib                                                                          1.3.1-r1                                            apk                         
