@@ -6,6 +6,7 @@ project_url: "https://wiki.gnome.org/Apps/Lollypop"
 project_logo: "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/lollypop-icon.png"
 project_blurb: "[Lollypop]({{ project_url }}) is a lightweight modern music player designed to work excellently on the GNOME desktop environment."
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
+project_categories: "Music"
 project_blurb_optional_extras_enabled: false
 # supported architectures
 available_architectures:
