@@ -16,9 +16,9 @@ anyio                                                                         0.
 aom-libs                                                                      3.12.1-r0                               apk                          
 apk-tools                                                                     2.14.9-r2                               apk                          
 arrayvec                                                                      0.7.4                                   rust-crate                   
-at-spi2-core                                                                  2.56.3-r0                               apk                          
-at-spi2-core-lang                                                             2.56.3-r0                               apk                          
-at-spi2-core-libs                                                             2.56.3-r0                               apk                          
+at-spi2-core                                                                  2.56.4-r0                               apk                          
+at-spi2-core-lang                                                             2.56.4-r0                               apk                          
+at-spi2-core-libs                                                             2.56.4-r0                               apk                          
 attrs                                                                         25.3.0                                  python                       
 autocommand                                                                   2.2.2                                   python                       
 av                                                                            14.4.0                                  python                       
@@ -556,8 +556,8 @@ libapk2                                                                       2.
 libarchive                                                                    3.8.1-r0                                apk                          
 libass                                                                        0.17.3-r0                               apk                          
 libasyncns                                                                    0.8-r4                                  apk                          
-libatk-1.0                                                                    2.56.3-r0                               apk                          
-libatk-bridge-2.0                                                             2.56.3-r0                               apk                          
+libatk-1.0                                                                    2.56.4-r0                               apk                          
+libatk-bridge-2.0                                                             2.56.4-r0                               apk                          
 libattr                                                                       2.5.2-r2                                apk                          
 libavc1394                                                                    0.5.4-r3                                apk                          
 libblkid                                                                      2.41-r9                                 apk                          
