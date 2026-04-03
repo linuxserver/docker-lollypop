@@ -5,11 +5,11 @@ adwaita-icon-theme                                                            49
 agetty                                                                        2.41.2-r0                               apk                          
 aiofiles                                                                      25.1.0                                  python                       
 aiohappyeyeballs                                                              2.6.1                                   python                       
-aiohttp                                                                       3.13.3                                  python                       
+aiohttp                                                                       3.13.4                                  python                       
 aioice                                                                        0.10.2                                  python                       
 aiosignal                                                                     1.4.0                                   python                       
-alpine-baselayout                                                             3.7.1-r8                                apk                          
-alpine-baselayout-data                                                        3.7.1-r8                                apk                          
+alpine-baselayout                                                             3.7.2-r0                                apk                          
+alpine-baselayout-data                                                        3.7.2-r0                                apk                          
 alpine-keys                                                                   2.6-r0                                  apk                          
 alpine-release                                                                3.23.3-r0                               apk                          
 alsa-lib                                                                      1.2.14-r2                               apk                          
@@ -30,6 +30,7 @@ at-spi2-core-lang                                                             2.
 at-spi2-core-libs                                                             2.58.3-r0                               apk                          
 attrs                                                                         26.1.0                                  python                       
 autocommand                                                                   2.2.2                                   python                       
+av                                                                            17.0.0                                  python                       
 av-metrics                                                                    0.9.1                                   rust-crate                   
 av1-grain                                                                     0.2.3                                   rust-crate                   
 avahi-libs                                                                    0.8-r23                                 apk                          
@@ -630,7 +631,6 @@ jansson                                                                       2.
 jaraco-context                                                                6.1.0                                   python                       
 jaraco-functools                                                              4.4.0                                   python                       
 jaraco-text                                                                   4.0.0                                   python                       
-jq                                                                            1.7.1                                   binary                       
 jq                                                                            1.8.1-r0                                apk                          
 k8s.io/api                                                                    v0.32.3                                 go-module                    
 k8s.io/api                                                                    v0.34.1                                 go-module   (+1 duplicate)   
@@ -885,7 +885,7 @@ pasimple                                                                      0.
 paste                                                                         1.0.14                                  rust-crate                   
 pciutils                                                                      3.14.0-r0                               apk                          
 pciutils-libs                                                                 3.14.0-r0                               apk                          
-pcmflux                                                                       1.0.7                                   python                       
+pcmflux                                                                       1.0.8                                   python                       
 pcre2                                                                         10.47-r0                                apk                          
 pillow                                                                        11.3.0                                  python                       
 pillow                                                                        12.1.1                                  python                       
