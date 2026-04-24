@@ -11,7 +11,7 @@ aiosignal                                                                     1.
 alpine-baselayout                                                             3.7.2-r0                                apk                          
 alpine-baselayout-data                                                        3.7.2-r0                                apk                          
 alpine-keys                                                                   2.6-r0                                  apk                          
-alpine-release                                                                3.23.3-r0                               apk                          
+alpine-release                                                                3.23.4-r0                               apk                          
 alsa-lib                                                                      1.2.14-r2                               apk                          
 alsa-plugins-pulse                                                            1.2.12-r2                               apk                          
 anstream                                                                      0.6.8                                   rust-crate                   
@@ -22,7 +22,7 @@ anyhow                                                                        1.
 anyhow                                                                        1.0.98                                  rust-crate                   
 anyio                                                                         0.0.0                                   python                       
 aom-libs                                                                      3.13.1-r1                               apk                          
-apk-tools                                                                     3.0.5-r0                                apk                          
+apk-tools                                                                     3.0.6-r0                                apk                          
 arg_enum_proc_macro                                                           0.3.4                                   rust-crate                   
 arrayvec                                                                      0.7.4                                   rust-crate  (+1 duplicate)   
 at-spi2-core                                                                  2.58.3-r0                               apk                          
@@ -30,7 +30,7 @@ at-spi2-core-lang                                                             2.
 at-spi2-core-libs                                                             2.58.3-r0                               apk                          
 attrs                                                                         26.1.0                                  python                       
 autocommand                                                                   2.2.2                                   python                       
-av                                                                            17.0.0                                  python                       
+av                                                                            17.0.1                                  python                       
 av-metrics                                                                    0.9.1                                   rust-crate                   
 av1-grain                                                                     0.2.3                                   rust-crate                   
 avahi-libs                                                                    0.8-r23                                 apk                          
@@ -49,8 +49,8 @@ busybox                                                                       1.
 busybox-binsh                                                                 1.37.0-r30                              apk                          
 bytemuck                                                                      1.14.0                                  rust-crate                   
 c-ares                                                                        1.34.6-r0                               apk                          
-ca-certificates                                                               20251003-r0                             apk                          
-ca-certificates-bundle                                                        20251003-r0                             apk                          
+ca-certificates                                                               20260413-r0                             apk                          
+ca-certificates-bundle                                                        20260413-r0                             apk                          
 cairo                                                                         1.18.4-r0                               apk                          
 cairo-gobject                                                                 1.18.4-r0                               apk                          
 catatonit                                                                     0.2.1-r0                                apk                          
@@ -613,7 +613,8 @@ hicolor-icon-theme                                                            0.
 httpcore                                                                      1.0.9                                   python                       
 httpx                                                                         0.28.1                                  python                       
 hwdata-pci                                                                    0.401-r0                                apk                          
-idna                                                                          3.11                                    python      (+1 duplicate)   
+idna                                                                          3.11                                    python                       
+idna                                                                          3.13                                    python                       
 ifaddr                                                                        0.2.0                                   python                       
 imagequant                                                                    4.2.2                                   rust-crate                   
 imagequant-sys                                                                4.0.3                                   rust-crate                   
@@ -654,7 +655,7 @@ lang                                                                          0.
 lazy_static                                                                   1.4.0                                   rust-crate                   
 lcms2                                                                         2.17-r0                                 apk                          
 libSvtAv1Enc                                                                  3.1.2-r0                                apk                          
-libapk                                                                        3.0.5-r0                                apk                          
+libapk                                                                        3.0.6-r0                                apk                          
 libarchive                                                                    3.8.5-r0                                apk                          
 libass                                                                        0.17.4-r0                               apk                          
 libasyncns                                                                    0.8-r4                                  apk                          
@@ -786,7 +787,7 @@ libxkbcommon-x11                                                              1.
 libxkbfile                                                                    1.1.3-r0                                apk                          
 libxml2                                                                       2.13.9-r0                               apk                          
 libxmu                                                                        1.2.1-r0                                apk                          
-libxpm                                                                        3.5.17-r0                               apk                          
+libxpm                                                                        3.5.19-r0                               apk                          
 libxrandr                                                                     1.5.4-r1                                apk                          
 libxrender                                                                    0.9.12-r0                               apk                          
 libxscrnsaver                                                                 1.2.5-r0                                apk                          
