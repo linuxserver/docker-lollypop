@@ -93,7 +93,7 @@ crossbeam-epoch                                                               0.
 crossbeam-queue                                                               0.3.11                                  rust-crate                   
 crossbeam-utils                                                               0.8.16                                  rust-crate                   
 crossbeam-utils                                                               0.8.19                                  rust-crate                   
-cryptography                                                                  47.0.0                                  python                       
+cryptography                                                                  48.0.0                                  python                       
 cups-libs                                                                     2.4.18-r0                               apk                          
 curio                                                                         1.6                                     python                       
 curl                                                                          8.17.0-r1                               apk                          
@@ -489,7 +489,7 @@ glib-lang                                                                     2.
 glib-networking                                                               2.80.1-r2                               apk                          
 glib-networking-lang                                                          2.80.1-r2                               apk                          
 gmp                                                                           6.3.0-r4                                apk                          
-gnutls                                                                        3.8.12-r0                               apk                          
+gnutls                                                                        3.8.13-r0                               apk                          
 go.etcd.io/bbolt                                                              v1.4.3                                  go-module   (+1 duplicate)   
 go.etcd.io/etcd/api/v3                                                        v3.6.5                                  go-module                    
 go.etcd.io/etcd/client/pkg/v3                                                 v3.6.5                                  go-module                    
@@ -653,7 +653,7 @@ labwc-lang                                                                    0.
 lame-libs                                                                     3.100-r5                                apk                          
 lang                                                                          0.1-r2                                  apk                          
 lazy_static                                                                   1.4.0                                   rust-crate                   
-lcms2                                                                         2.17-r0                                 apk                          
+lcms2                                                                         2.19-r0                                 apk                          
 libSvtAv1Enc                                                                  3.1.2-r0                                apk                          
 libapk                                                                        3.0.6-r0                                apk                          
 libarchive                                                                    3.8.5-r0                                apk                          
@@ -845,7 +845,7 @@ netcat-openbsd                                                                1.
 nettle                                                                        3.10.2-r0                               apk                          
 new_debug_unreachable                                                         1.0.4                                   rust-crate                   
 nftables                                                                      1.1.5-r2                                apk                          
-nghttp2-libs                                                                  1.68.0-r0                               apk                          
+nghttp2-libs                                                                  1.69.0-r0                               apk                          
 nghttp3                                                                       1.13.1-r0                               apk                          
 nginx                                                                         1.28.3-r0                               apk                          
 nginx-mod-http-fancyindex                                                     1.28.3-r0                               apk                          
@@ -949,7 +949,7 @@ pygobject                                                                     3.
 pylast                                                                        5.5.0                                   python                       
 pylibsrtp                                                                     1.0.0                                   python                       
 pynput                                                                        1.8.1                                   python                       
-pyopenssl                                                                     26.1.0                                  python                       
+pyopenssl                                                                     26.2.0                                  python                       
 python-xlib                                                                   0.33                                    python                       
 python3                                                                       3.12.13-r0                              apk                          
 python3-pyc                                                                   3.12.13-r0                              apk                          
@@ -1026,7 +1026,7 @@ totem-pl-parser                                                               3.
 totem-pl-parser-lang                                                          3.26.6-r6                               apk                          
 tslib                                                                         1.23-r0                                 apk                          
 typing-extensions                                                             4.15.0                                  python      (+1 duplicate)   
-tzdata                                                                        2026a-r0                                apk                          
+tzdata                                                                        2026b-r0                                apk                          
 umount                                                                        2.41.4-r0                               apk                          
 unicode-ident                                                                 1.0.12                                  rust-crate                   
 unicode-width                                                                 0.1.11                                  rust-crate                   
@@ -1088,7 +1088,7 @@ xsettingsd                                                                    1.
 xterm                                                                         403-r0                                  apk                          
 xvfb                                                                          21.1.22-r0                              apk                          
 xwayland                                                                      24.1.10-r0                              apk                          
-xz-libs                                                                       5.8.2-r0                                apk                          
+xz-libs                                                                       5.8.3-r0                                apk                          
 y4m                                                                           0.8.0                                   rust-crate                   
 yarl                                                                          1.23.0                                  python                       
 yt-dlp                                                                        2026.3.17                               python                       
