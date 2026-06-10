@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-selkies:alpine323
+FROM ghcr.io/linuxserver/baseimage-selkies:alpine324
 
 # set version label
 ARG BUILD_DATE
@@ -10,7 +10,8 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="thelamer"
 
 # title
-ENV TITLE=Lollypop
+ENV TITLE=Lollypop \
+    PIXELFLUX_WAYLAND=true
 
 RUN \
   echo "**** add icon ****" && \
@@ -20,12 +21,15 @@ RUN \
   echo "**** install packages ****" && \
   apk add --no-cache \
     adwaita-icon-theme \
+    gtk-update-icon-cache \
     lollypop \
     py3-beautifulsoup4 \
     youtube-dl && \
-  ln -s \
-    /usr/lib/libpython3.10.so.1.0 \
-    /usr/lib/libpython3.10.so && \
+  echo "**** copy icon ****" && \
+  cp \
+    /usr/share/icons/hicolor/scalable/actions/org.gnome.Lollypop-suggestions-symbolic.svg \
+    /usr/share/icons/hicolor/scalable/actions/org.gnome.Lollypop-suggestions-symbolic-ltr.svg && \
+  gtk4-update-icon-cache -f /usr/share/icons/hicolor && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/*
